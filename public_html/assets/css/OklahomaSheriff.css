@@ -1,0 +1,9 @@
+﻿@font-face {
+    font-family:"OklahomaSheriff";
+    src:    url("../fonts/OklahomaSheriff.eot?")                format("eot"),
+            url("../fonts/OklahomaSheriff.woff")                format("woff"),
+            url("../fonts/OklahomaSheriff.ttf")                 format("truetype"),
+            url("../fonts/OklahomaSheriff.svg#OklahomaSheriff")    format("svg");
+    font-weight:normal;
+    font-style:normal;
+}

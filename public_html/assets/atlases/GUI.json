@@ -1,0 +1,459 @@
+﻿{"frames": [
+
+{
+	"filename": "Peg instance 10000",
+	"frame": {"x":923,"y":276,"w":12,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":41},
+	"sourceSize": {"w":12,"h":41}
+}
+,{
+	"filename": "bgPanels instance 10000",
+	"frame": {"x":1,"y":1,"w":495,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":495,"h":360},
+	"sourceSize": {"w":495,"h":360}
+}
+,{
+	"filename": "bgRope instance 10000",
+	"frame": {"x":939,"y":276,"w":16,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":322},
+	"sourceSize": {"w":16,"h":322}
+}
+,{
+	"filename": "bgTittle instance 10000",
+	"frame": {"x":498,"y":175,"w":485,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":485,"h":49},
+	"sourceSize": {"w":485,"h":49}
+}
+,{
+	"filename": "bgTwig1 instance 10000",
+	"frame": {"x":320,"y":614,"w":39,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":24},
+	"sourceSize": {"w":39,"h":24}
+}
+,{
+	"filename": "bgTwig2 instance 10000",
+	"frame": {"x":255,"y":564,"w":46,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":27},
+	"sourceSize": {"w":46,"h":27}
+}
+,{
+	"filename": "btnGreenSquare instance 10000",
+	"frame": {"x":927,"y":67,"w":65,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":60},
+	"sourceSize": {"w":65,"h":60}
+}
+,{
+	"filename": "btnGreenWide instance 10000",
+	"frame": {"x":207,"y":654,"w":182,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":53},
+	"sourceSize": {"w":182,"h":53}
+}
+,{
+	"filename": "btnHelp instance 10000",
+	"frame": {"x":957,"y":276,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "btnLevelStar instance 10000",
+	"frame": {"x":986,"y":606,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+}
+,{
+	"filename": "btnLevelStarDone instance 10000",
+	"frame": {"x":858,"y":638,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":21},
+	"sourceSize": {"w":20,"h":21}
+}
+,{
+	"filename": "btnLevelTick instance 10000",
+	"frame": {"x":905,"y":663,"w":19,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":21},
+	"sourceSize": {"w":19,"h":21}
+}
+,{
+	"filename": "btnMovement instance 10000",
+	"frame": {"x":957,"y":342,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "btnMovement instance 10001",
+	"frame": {"x":957,"y":408,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "btnPause instance 10000",
+	"frame": {"x":927,"y":1,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "btnSound instance 10000",
+	"frame": {"x":957,"y":474,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "btnSound instance 10001",
+	"frame": {"x":957,"y":540,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64}
+}
+,{
+	"filename": "flag_br instance 10000",
+	"frame": {"x":391,"y":662,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":42},
+	"sourceSize": {"w":61,"h":42}
+}
+,{
+	"filename": "flag_en instance 10000",
+	"frame": {"x":654,"y":642,"w":61,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":41},
+	"sourceSize": {"w":61,"h":41}
+}
+,{
+	"filename": "flag_fr instance 10000",
+	"frame": {"x":454,"y":662,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":42},
+	"sourceSize": {"w":61,"h":42}
+}
+,{
+	"filename": "flag_it instance 10000",
+	"frame": {"x":917,"y":129,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":42},
+	"sourceSize": {"w":61,"h":42}
+}
+,{
+	"filename": "flag_nl instance 10000",
+	"frame": {"x":592,"y":642,"w":60,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":42},
+	"sourceSize": {"w":60,"h":42}
+}
+,{
+	"filename": "flag_no instance 10000",
+	"frame": {"x":693,"y":592,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":42},
+	"sourceSize": {"w":61,"h":42}
+}
+,{
+	"filename": "flag_pt instance 10000",
+	"frame": {"x":529,"y":642,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":42},
+	"sourceSize": {"w":61,"h":42}
+}
+,{
+	"filename": "iconRestart instance 10000",
+	"frame": {"x":993,"y":1,"w":26,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":29},
+	"sourceSize": {"w":26,"h":29}
+}
+,{
+	"filename": "levelLocked instance 10000",
+	"frame": {"x":219,"y":564,"w":34,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":38},
+	"sourceSize": {"w":34,"h":38}
+}
+,{
+	"filename": "logo instance 10000",
+	"frame": {"x":1,"y":363,"w":216,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":239},
+	"sourceSize": {"w":216,"h":239}
+}
+,{
+	"filename": "menuShaunIcon instance 10000",
+	"frame": {"x":219,"y":363,"w":200,"h":199},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":199},
+	"sourceSize": {"w":200,"h":199}
+}
+,{
+	"filename": "outStartBtn instance 10000",
+	"frame": {"x":421,"y":376,"w":317,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":317,"h":64},
+	"sourceSize": {"w":317,"h":64}
+}
+,{
+	"filename": "outWinBtns instance 10000",
+	"frame": {"x":498,"y":106,"w":417,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":417,"h":67},
+	"sourceSize": {"w":417,"h":67}
+}
+,{
+	"filename": "outWinScoreLinesL instance 10000",
+	"frame": {"x":367,"y":564,"w":22,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":72},
+	"sourceSize": {"w":22,"h":72}
+}
+,{
+	"filename": "outWinScoreLinesR instance 10000",
+	"frame": {"x":910,"y":468,"w":24,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":66},
+	"sourceSize": {"w":24,"h":66}
+}
+,{
+	"filename": "panelBack instance 10000",
+	"frame": {"x":1,"y":654,"w":204,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":67},
+	"sourceSize": {"w":204,"h":67}
+}
+,{
+	"filename": "panelScore instance 10000",
+	"frame": {"x":498,"y":1,"w":427,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":427,"h":103},
+	"sourceSize": {"w":427,"h":103}
+}
+,{
+	"filename": "recordNum instance 10000",
+	"frame": {"x":892,"y":563,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10001",
+	"frame": {"x":740,"y":376,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10002",
+	"frame": {"x":892,"y":613,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10003",
+	"frame": {"x":939,"y":606,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10004",
+	"frame": {"x":320,"y":564,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10005",
+	"frame": {"x":939,"y":656,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10006",
+	"frame": {"x":717,"y":638,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10007",
+	"frame": {"x":764,"y":638,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10008",
+	"frame": {"x":811,"y":638,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10009",
+	"frame": {"x":858,"y":663,"w":45,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10010",
+	"frame": {"x":529,"y":592,"w":162,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10011",
+	"frame": {"x":421,"y":542,"w":334,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10012",
+	"frame": {"x":498,"y":276,"w":423,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10013",
+	"frame": {"x":498,"y":326,"w":423,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10014",
+	"frame": {"x":1,"y":604,"w":317,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10015",
+	"frame": {"x":498,"y":226,"w":477,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10016",
+	"frame": {"x":421,"y":442,"w":374,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "recordNum instance 10017",
+	"frame": {"x":421,"y":492,"w":368,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":0,"w":477,"h":48},
+	"sourceSize": {"w":477,"h":48}
+}
+,{
+	"filename": "sadFace instance 10000",
+	"frame": {"x":797,"y":468,"w":111,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":93},
+	"sourceSize": {"w":111,"h":93}
+}
+,{
+	"filename": "tutArrows instance 10000",
+	"frame": {"x":797,"y":376,"w":140,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":90},
+	"sourceSize": {"w":140,"h":90}
+}
+,{
+	"filename": "tutLauncherKeys instance 10000",
+	"frame": {"x":391,"y":592,"w":136,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":68},
+	"sourceSize": {"w":136,"h":68}
+}
+,{
+	"filename": "tutMouse instance 10000",
+	"frame": {"x":757,"y":563,"w":133,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":73},
+	"sourceSize": {"w":133,"h":73}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.5.0.100",
+	"image": "GUI.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":722},
+	"scale": "1"
+}
+}
